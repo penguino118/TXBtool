@@ -1,7 +1,10 @@
-# TXBtool
+# Now archived
+[Superseeded by TXB Editor](https://github.com/penguino118/TXBeditor)
+
+## TXBtool
 Simple tool that unpacks and repacks .TXB files from GioGio's Bizarre Adventure (PS2)
 
-## Usage
+### Usage
 To unpack a file use the `-u` command and the program will extract every TIM2 image from inside the file.
 ```
 TXBtool.exe -u example.txb
